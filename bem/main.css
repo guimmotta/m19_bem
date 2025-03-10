@@ -23,5 +23,10 @@
 .produto__descricao {
   color: gray;
 }
+.produto--active {
+  border: 2px solid gold;
+  padding: 8px;
+  background-color: #ffff42;
+}
 
 /*# sourceMappingURL=main.css.map */

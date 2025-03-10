@@ -28,4 +28,10 @@
         color: gray;
     }
 
+    
+    &--active {
+        border: 2px solid gold;
+        padding: 8px;
+        background-color: #ffff42;
+    }
 }
